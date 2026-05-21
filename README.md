@@ -13,4 +13,5 @@ This project contains a bash script to calculate simple interest.
 - Bash Shell Script
 - GitHub
 - Git CLI# Coursera-
+  
 This project is for Coursera final assignment.
